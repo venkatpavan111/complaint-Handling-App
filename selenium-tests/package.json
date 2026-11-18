@@ -1,0 +1,21 @@
+{
+  "name": "resolveq-selenium-tests",
+  "version": "1.0.0",
+  "description": "E2E Selenium Automation & Comprehensive Test Suite for ResolveQ Frontend",
+  "main": "tests/login-tests.js",
+  "scripts": {
+    "test": "node tests/login-tests.js"
+  },
+  "keywords": [
+    "selenium",
+    "e2e",
+    "testing",
+    "resolveq"
+  ],
+  "author": "Antigravity Quality Assurance",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.27.0",
+    "xlsx": "^0.18.5"
+  }
+}

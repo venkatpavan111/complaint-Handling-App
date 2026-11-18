@@ -1,0 +1,24 @@
+{
+  "name": "resolveq-appium-tests",
+  "version": "1.0.0",
+  "description": "Appium E2E Mobile Automation Suite & Comprehensive QA Reporting for ResolveQ Mobile App",
+  "main": "app-tests.js",
+  "scripts": {
+    "test": "node app-tests.js"
+  },
+  "keywords": [
+    "appium",
+    "webdriverio",
+    "react-native",
+    "expo",
+    "mobile-testing",
+    "e2e",
+    "resolveq"
+  ],
+  "author": "Antigravity Quality Assurance",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^8.36.1",
+    "xlsx": "^0.18.5"
+  }
+}

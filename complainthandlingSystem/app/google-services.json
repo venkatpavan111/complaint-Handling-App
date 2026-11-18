@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417342150988",
+    "project_id": "compliant--handling",
+    "storage_bucket": "compliant--handling.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417342150988:android:5bd5d37dd867a24187d7e9",
+        "android_client_info": {
+          "package_name": "com.campuscomplaintsystem.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417342150988-i15gk61fr696fbh3qmc8nn9ehhqde1ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB15mFlCjkTmHkntwKyGLcU4eXRue2DS-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417342150988-i15gk61fr696fbh3qmc8nn9ehhqde1ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
